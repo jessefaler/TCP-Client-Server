@@ -33,5 +33,5 @@ The Java client sends a short integer encoded in two bytes to the Python server.
    ```sh
    javac Main.java
    java Main
-   ``'
+   ```
 
