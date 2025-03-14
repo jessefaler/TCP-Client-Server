@@ -1,6 +1,6 @@
 # Java TCP Client & Python TCP Server
 
-This project implements a simple Java TCP client and a Python TCP server for sending and receiving short integers over a network connection.
+This project implements a simple Java TCP client and a Python TCP server for sending and receiving short integers over a network.
 
 ## Overview
 
